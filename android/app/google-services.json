@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "531814363545",
+    "project_id": "scopeindia-85397",
+    "storage_bucket": "scopeindia-85397.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531814363545:android:028c93833b8edb52d86308",
+        "android_client_info": {
+          "package_name": "com.example.scopeindia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD921ZxCo4sh4YsAsaxm6V5-axDKmjWlLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
