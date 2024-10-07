@@ -11,15 +11,6 @@ class _AwsState extends State<Aws> {
     var h=MediaQuery.of(context).size.height;
     var w= MediaQuery.of(context).size.width;
     return Scaffold(
-      drawer: Drawer(),
-      appBar: AppBar(
-      backgroundColor: Colors.blue.shade900,
-      centerTitle: true,
-      title: Image(
-          height: h/11,
-          width: w/7,
-          image:AssetImage("images/scope-india-logo-bird.png") ),
-    ),
       body: Text(
         "This is the Aws page",
         style: TextStyle(
